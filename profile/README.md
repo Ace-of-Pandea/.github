@@ -6,7 +6,7 @@ Ace of Pandea is a private modernization effort for the Ace Online game, built f
 
 I released an initial version of this project and maintained it for over a year. That first attempt did not achieve the goals I set out to accomplish — due to gaps in knowledge, legacy server limitations, insecure protocol handling, outdated technology dependencies, and architecture decisions that didn't scale or hold up over time.
 
-Rather than hide that reality, this project stands on it. Ace of Pandea is a second-generation effort that explicitly addresses what went wrong: modernizing server and client technology, improving security, building sustainable code structure, and moving beyond Windows-only dependencies.
+Ace of Pandea is a second-generation effort that explicitly addresses what went wrong: modernizing server and client technology, improving security, building sustainable code structure, and moving beyond Windows-only dependencies.
 
 ## 🧠 Project Vision
 
